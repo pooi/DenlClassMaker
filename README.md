@@ -1,8 +1,9 @@
 # DenlClassMaker
 Denl Class Maker
+
 <br>
 
-## input
+## Input
 ```txt
 34
 거울,,,,악세서리
@@ -45,7 +46,7 @@ Denl Class Maker
 <br>
 
 
-## output
+## Output
 ```text
 Result: 
 Class  1  |  담요 모자 목도리 생리대 장갑 
